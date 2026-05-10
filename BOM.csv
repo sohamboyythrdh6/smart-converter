@@ -1,0 +1,10 @@
+name,pcs,link,price(dollar),description
+5v relay,1,https://makerbazar.in/products/5-pin-pcb-mount-spdt-relay?variant=48953703629040,0.20,to control bulb
+bc547 transistor ,1,https://makerbazar.in/products/bcxxx-general-purpose-transistors-to92,0.20,to control the relay
+Hi-Link Power Supply HLK-PM01,1,https://makerbazar.in/products/hi-link-power-supply-hlk-pm01-100v-240vac-5vdc-0-6a-3w,2.11,power the circuit
+Screw Terminal Block Connectors,2,https://makerbazar.in/products/wire-to-board-screw-terminal-connectors,0.26,for conecting live wires
+DIP LED 5mm Oval Shape,1,https://makerbazar.in/products/dip-led-5mm-oval-shape?variant=46892487540976,0.25,for visual working
+10k DIP Resistors Through-Hole Resistance,1,https://makerbazar.in/products/0-5-watt-dip-resistors-through-hole-resistance?variant=48049213636848,0.20,to limit the current
+1k DIP Resistors Through-Hole Resistance,1,https://makerbazar.in/products/0-5-watt-dip-resistors-through-hole-resistance?variant=48049213636848,0.20,to limit the current
+330 DIP Resistors Through-Hole Resistance,1,https://makerbazar.in/products/0-5-watt-dip-resistors-through-hole-resistance?variant=48049213636848,0.20,to limit the current
+1n4007 diode,1,https://makerbazar.in/products/dip-rectifier-diode-through-hole?variant=46915109421296,0.14,prevent current backwards
