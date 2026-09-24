@@ -1,4 +1,4 @@
-,name,pcs,link,price(dollar),description
+,name,pcs,link,price(dollar),description,
 ,5v relay,1,https://makerbazar.in/products/5-pin-pcb-mount-spdt-relay?variant=48953703629040,0.20,to control bulb,
 ,bc547 transistor ,1,https://makerbazar.in/products/bcxxx-general-purpose-transistors-to92,0.20,to control the relay,
 ,Hi-Link Power Supply HLK-PM01,1,https://makerbazar.in/products/hi-link-power-supply-hlk-pm01-100v-240vac-5vdc-0-6a-3w,2.11,power the circuit,
